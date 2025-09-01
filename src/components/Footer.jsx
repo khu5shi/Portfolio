@@ -1,5 +1,5 @@
 import React from "react";
-import { FaGithub, FaLinkedin, FaTwitter, FaEnvelope } from "react-icons/fa";
+import { FaGithub, FaLinkedin, FaEnvelope } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -10,7 +10,7 @@ const Footer = () => {
           <h2 className="text-xl font-semibold text-white">KA</h2>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a
-              href="https://github.com/yourusername"
+              href="https://github.com/khu5shi"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
@@ -18,23 +18,16 @@ const Footer = () => {
               <FaGithub size={22} />
             </a>
             <a
-              href="https://linkedin.com/in/yourusername"
+              href="https://www.linkedin.com/in/khushi-agrawal-08a21b25a/"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-white transition"
             >
               <FaLinkedin size={22} />
             </a>
+
             <a
-              href="https://twitter.com/yourusername"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="hover:text-white transition"
-            >
-              <FaTwitter size={22} />
-            </a>
-            <a
-              href="mailto:youremail@gmail.com"
+              href="mailto:khushi4608@gmail.com"
               className="hover:text-white transition"
             >
               <FaEnvelope size={22} />

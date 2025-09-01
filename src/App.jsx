@@ -6,6 +6,8 @@ import Experiences from "./components/Experiences"
 import Project from "./components/Project"
 import Contact from "./components/Contact"
 import Footer from "./components/Footer"
+import Awards from "./components/Awards.jsx"
+
 
 
 function App() {
@@ -32,6 +34,7 @@ function App() {
     <Technologies/>
     <Project/>
     <Experiences/>
+    <Awards/>
     <Contact/>
     <Footer/>
     </div>
