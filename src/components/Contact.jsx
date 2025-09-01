@@ -23,7 +23,7 @@ const Contact = () => {
               <FaPhone /> +91 7394874292
             </a>
             <a href="https://www.linkedin.com/in/khushi-agrawal-08a21b25a/" target="_blank" className="flex items-center gap-3 hover:text-cyan-400 duration-300">
-              <FaLinkedin /> linkedin.com/in/yourprofile
+              <FaLinkedin /> linkedin.com/in/khushi
             </a>
             <a href="https://github.com/khu5shi" target="_blank" className="flex items-center gap-3 hover:text-cyan-400 duration-300">
               <FaGithub /> github.com/khu5shi
