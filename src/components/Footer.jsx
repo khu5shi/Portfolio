@@ -39,7 +39,7 @@ const Footer = () => {
         <div className="flex flex-col md:flex-row justify-between items-center mt-6 text-sm">
           <p>© {new Date().getFullYear()} Happybug | All rights reserved.</p>
           <p className="mt-2 md:mt-0">
-            Made with <span className="text-pink-500">♥</span> using React & Tailwind CSS
+            Made with <span className="text-pink-500">♥</span>
           </p>
         </div>
       </div>

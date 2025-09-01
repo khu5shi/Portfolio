@@ -2,7 +2,7 @@ import { FaLinkedin, FaGithub, FaEnvelope, FaPhone } from "react-icons/fa";
 
 const Contact = () => {
   return (
-    <div className="border-b border-neutral-900 pb-20" id="contact">
+    <div className="border-b border-neutral-900 pb-20 pt-24" id="contact">
       <h2 className="my-10 text-center text-4xl font-bold">
         Contact <span className="text-gray-500">Me</span>
       </h2>
